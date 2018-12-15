@@ -1,7 +1,7 @@
 aioscript
 =========
 
-:info: Base asyncio script with support of threading and multiprocessing
+:info: Base asyncio script with support for threading and multiprocessing
 
 .. image:: https://travis-ci.org/wikibusiness/aioscript.svg?branch=master
     :target: https://travis-ci.org/wikibusiness/aioscript
